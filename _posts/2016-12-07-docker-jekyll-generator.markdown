@@ -7,7 +7,7 @@ categories: docker
 
 Jekyll!, un simple generador de archivos estáticos, con una curva de aprendizaje muy corta y muy sencilla de usar. si quieres un blog rápido, fácil de administrar (y free), te recomiendo una combinacion entre [github pages](https://help.github.com/articles/setting-up-your-github-pages-site-locally-with-jekyll/) & [jekyll](https://jekyllrb.com).
 
-Listo para crear tu primer blog con Jekyll?, excelente. Primero debemos tener instalado docker en nuestro S.O, así que te recomiendo que leas este articulo (Docker Install), antes de continuar.
+Listo para crear tu primer blog con Jekyll?, excelente. Primero debemos tener instalado docker en nuestro S.O, así que te recomiendo que leas este articulo ([Docker Install](/docker/2016/12/07/docker-install.html)), antes de continuar.
 
 ## Docker Pull Image
 
