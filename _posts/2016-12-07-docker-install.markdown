@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Docker Install"
+title:  "Docker Install Ubuntu16"
 date:   2016-12-07 17:20:17
 categories: docker
 ---
@@ -41,3 +41,5 @@ sudo systemctl status docker
 # Debera de cerrar la session y volver a ingresar para que haga efecto.
 sudo usermod -aG docker $(whoami)
 {% endhighlight %}
+
+Quiza te pueda interesar algunos [conceptos basicos y como empezar a utilizar docker](/docker/2016/12/06/docker-overview.html)).
