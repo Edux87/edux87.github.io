@@ -17,4 +17,5 @@ dockerhub_userame: edaniel15
 analytics: google
 # Build settings
 markdown: kramdown
-paginate: 3
+gems: [jekyll-paginate, jekyll-gist]
+paginate: 10
