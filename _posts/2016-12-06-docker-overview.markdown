@@ -17,6 +17,7 @@ Una vez que as navegado por [Docker Hub](https://hub.docker.com), y encuentres a
 Al igual que un repositorio git, docker hub puede manejar tags o etiquetas para las imagenes, por defecto descargara la image con la version mas reciente. Puedes cambiar el tag `:14.04` por la version de ubuntu que quieras. Este proceso tomara algunos segundos (o minutos) dependiendo de la velocidad de tu conexión a Internet.
 
 Cuando tengamos descargada la imagen, deberemos de aprender un comando muy importante `docker images`, este comando nos mostrara una lista de imágenes clonadas y disponibles.
+[Tengo algunas imagenes](https://hub.docker.com/r/edaniel15) que quizas te puedan interesar.
 
 ## Trabajando con contenedores
 

@@ -9,7 +9,12 @@ baseurl: "" # the subpath of your site, e.g. /blog/
 url: "https://edux87.github.io" # the base hostname & protocol for your site
 permalink: pretty
 twitter_username: edaniel15
-github_username:  Edux87
+github_username: Edux87
+linkedin_username: ced87
+skype_username: ecastaneda87
+dockerhub_userame: edaniel15
+
 analytics: google
 # Build settings
 markdown: kramdown
+paginate: 3
