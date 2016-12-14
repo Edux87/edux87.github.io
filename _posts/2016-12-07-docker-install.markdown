@@ -1,5 +1,6 @@
 ---
 layout: post
+comments: true
 title:  "Docker Install Ubuntu16"
 date:   2016-12-07 17:20:17
 categories: docker
@@ -42,4 +43,4 @@ sudo systemctl status docker
 sudo usermod -aG docker $(whoami)
 {% endhighlight %}
 
-Quiza te pueda interesar algunos [conceptos basicos y como empezar a utilizar docker](/docker/2016/12/06/docker-overview.html)).
+Quiza te pueda interesar algunos [conceptos basicos y como empezar a utilizar docker](/docker/2016/12/06/docker-overview/).

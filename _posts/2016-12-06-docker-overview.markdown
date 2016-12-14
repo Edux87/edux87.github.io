@@ -1,5 +1,6 @@
 ---
 layout: post
+comments: true
 title:  "Docker OverView"
 date:   2016-12-06 18:00:00
 categories: docker

@@ -1,5 +1,5 @@
 # Site settings
-title: EdgarC
+title: Edux87
 email: edaniel15@gmail.com
 description: > # this means to ignore newlines until "baseurl:"
   Bienvenido a mi blog personal!, aqui encontraras varios scripts
@@ -7,8 +7,9 @@ description: > # this means to ignore newlines until "baseurl:"
   etc, publicando desde Lima - Peru
 baseurl: "" # the subpath of your site, e.g. /blog/
 url: "https://edux87.github.io" # the base hostname & protocol for your site
+permalink: pretty
 twitter_username: edaniel15
 github_username:  Edux87
-
+analytics: google
 # Build settings
 markdown: kramdown
