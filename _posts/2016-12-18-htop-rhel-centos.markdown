@@ -20,4 +20,23 @@ vertical y horizontal.
   - Puedes puedes seleccionar mas de un proceso
 
 # Instalacion
-Seguire expandiendo ...
+No existe ningun pre-requisito para la instalacion de este paquete.
+{% highlight bash %}
+# -------------- For RHEL/CentOS 7 --------------
+wget http://dl.fedoraproject.org/pub/epel/7/x86_64/e/epel-release-7-8.noarch.rpm
+rpm -ihv epel-release-7-8.noarch.rpm
+
+# -------------- For RHEL/CentOS 6 --------------
+wget http://download.fedoraproject.org/pub/epel/6/x86_64/epel-release-6-8.noarch.rpm
+rpm -ihv epel-release-6-8.noarch.rpm
+
+# -------------- For RHEL/CentOS 5 --------------
+wget http://download.fedoraproject.org/pub/epel/5/x86_64/epel-release-5-4.noarch.rpm
+rpm -ihv epel-release-5-4.noarch.rpm
+{% endhighlight %}
+
+Luego de bajar y compilar el paquete, instalamos.
+
+{% highlight bash %}
+yum install htop
+{% endhighlight %}
