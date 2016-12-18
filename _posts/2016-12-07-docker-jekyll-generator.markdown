@@ -62,7 +62,7 @@ Configuration file: /src/site/_config.yml ...
 # localhost:4001
 
 # Crear el servidor en modo dev
-% jekyll serve_dev
+% jekyll serve --config _config.yml,_config-dev.yml
 Initialize Server!
 Configuration file: /src/site/_config.yml + _config-dev.yml ...
 
@@ -76,3 +76,9 @@ en [markdown format](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheat
 clona este archivo y modificalo para generar contenido. es bueno mantener
 el estandar `YYYY-MM-DD-name-of-post.markdown`, despues actualiza tu navegador
 y veras los cambios.
+
+# Debbuging
+En ciertas ocaciones es probable que algunos de tus post no se rendericen, quizás
+colocaste una fecha futura respecto al servidor o una mala sintaxis en tu markdown,
+etc, cuando tengas dudas, ejecuta el comando `jekyll serve --verbose` y verifica
+la integridad de tus post.

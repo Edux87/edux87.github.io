@@ -5,6 +5,7 @@ title:  "ArangoDB"
 date:   2016-12-13 19:50:17
 categories: db graphs python
 ---
+
 [ArangoDB](https://www.arangodb.com/), diseñada para ser una **Base de Datos de Poposito General** (general purpose database) de código abierto, capaz de conectar con cualquier lenguage que pueda soportar el protocolo http a travez de su potente api, que puede ser extendida ya que incluye nativamente a **Foxx** construido en NodeJS, un framework orientado a microservicios, ademas de soportar tres de los modelos de datos NoSQL mas utilizados en el desarrollo de App's modernas.
 
 ## Modelos Soportados

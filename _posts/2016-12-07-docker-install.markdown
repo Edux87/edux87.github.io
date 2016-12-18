@@ -5,6 +5,7 @@ title:  "Docker Install Ubuntu16"
 date:   2016-12-07 17:20:17
 categories: docker
 ---
+
 [Docker](https://docker.com/) hace más sencillo y fácil la ejecución de procesos de aplicación en un contenedor (que son como máquinas virtuales, sólo que más portátil), más amigable con los recursos y más dependiente del sistema operativo. Para una introducción detallada a los diferentes componentes de un contenedor Docker, echa un vistazo a [The Docker Ecosystem: An Introduction to Common Components.](https://www.digitalocean.com/community/tutorials/the-docker-ecosystem-an-introduction-to-common-components)
 
 ## Prerequisitos

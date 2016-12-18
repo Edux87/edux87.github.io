@@ -13,9 +13,11 @@ github_username: Edux87
 linkedin_username: ced87
 skype_username: ecastaneda87
 dockerhub_userame: edaniel15
-
 analytics: google
+
 # Build settings
 markdown: kramdown
 gems: [jekyll-paginate, jekyll-gist]
 paginate: 10
+
+exclude: [ 'README.md', '.gitignore', '.editorconfig' ]
